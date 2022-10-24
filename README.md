@@ -1,4 +1,4 @@
-# bots
+# Bots
 Automated bots I've created using Python for various purposes.
 
 
