@@ -7,7 +7,7 @@ import time
 
 today = datetime.datetime.now()
 yesterday = today - datetime.timedelta(days=1)
-X_API_KEY = "9C77j06ADL0amB-W5Q4dYcAedXkJxYz86gj5OVSKhRM"
+X_API_KEY = ""
 url = "https://api.newscatcherapi.com/v2/search"
 headers = {
     'x-api-key' : X_API_KEY
