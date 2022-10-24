@@ -16,8 +16,8 @@ params = {
     'q': 'Climate Change',
     'lang': 'en',
     'to_rank': 10000,
-    'page_size': 1,
-    'page': 100,
+    'page_size': 100,
+    'page': 1,
     'from' : yesterday,
     'to' : today,
 }
